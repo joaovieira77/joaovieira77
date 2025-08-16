@@ -20,14 +20,15 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 ### 📫 How to Reach Me
 
 <p align="left">
-  <a href="mailto:joao7vieira@gmail.com" target="_blank">
+  <a href="mailto:joao7vieira@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;&nbsp; 
-  <a href="https://linkedin.com/in/joaovieira01/" target="_blank">
+  <a href="https://linkedin.com/in/joaovieira01/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
