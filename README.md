@@ -11,8 +11,8 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 ### 🔭 Current Projects
 
-- 🚀 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others.
-- 🎮 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability.
+- 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others.
+- 🧸 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability.
 - 👨‍💻 All of my projects are available at [https://joao-vieira.vercel.app/](https://joao-vieira.vercel.app/)
 
 ---
