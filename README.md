@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">🇵🇹 A passionate developer from Portugal</h3>
+<h3 align="center">🇵🇹 A developer from Portugal</h3>
 
 ---
 
@@ -9,7 +9,7 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 ---
 
-### 🔭 Current Projects
+### 🔭  Projects
 
 - 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others.
 - 🧸 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability.
