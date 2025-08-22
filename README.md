@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 
-I'm passionate about building intuitive digital experiences and solving real-world problems through code. Whether it's front-end magic or back-end logic, I love turning ideas into reality. Currently, I'm focused on expanding my skill set and working on exciting projects that challenge me to grow.
+I'm passionate about building intuitive digital experiences and solving real-world problems through code. Whether it's front-end visuals or back-end logic, I love turning ideas into reality. Currently, I'm focused on expanding my skill set and working on exciting projects that challenge me to grow.
 
 ---
 
