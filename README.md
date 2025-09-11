@@ -11,7 +11,7 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 ### 🔭  Projects
 
-- 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others.
+- 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others. 
   ➝ I was fully responsible for the Backend and also contributed to the Frontend development.
 - 🧸 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability.
   ➝ Developed during the Bytes4Future 24h Hackathon, where I was fully responsible for the Backend and also contributed to the Frontend.
