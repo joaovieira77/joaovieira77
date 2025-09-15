@@ -13,7 +13,7 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 - 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others. <br> ➝ I was fully responsible for the Backend and also contributed to the Frontend development.
 - 🧸 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability. <br> ➝ Developed during the Bytes4Future 24h Hackathon, where I was fully responsible for the Backend and also contributed to the Frontend.
-- 🏘 [Neighbourly] – A condominium management platform. <br> ➝ Currently in development. Fully built by me, working on both Backend and the Frontend.  
+- 🏘 [Neighbourly](https://github.com/joaovieira77/Neighbourly) – A condominium management platform. <br> ➝ Currently in development. Fully built by me, working on both Backend and the Frontend.  
 - 🚀 All of my projects are available at [https://joao-vieira.vercel.app/](https://joao-vieira.vercel.app/)
 
 ---
