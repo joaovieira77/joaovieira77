@@ -5,8 +5,8 @@
 
 ### 💡 About Me
 
-I'm passionate about building intuitive digital experiences and solving real-world problems through code.
-I love turning ideas into reality. 
+I'm passionate about building intuitive digital experiences and solving real-world problems through code. <br>
+I love turning ideas into reality. <br>
 I'm focused on expanding my skill set and working on exciting projects that challenge me to grow. <br> ➝ Currently learning Java and looking forward to dive into the Spring ecosystem.
 
 ---
