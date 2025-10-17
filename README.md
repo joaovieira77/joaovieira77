@@ -33,46 +33,18 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 ---
 
-### 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>💻 Frontend</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-    </td>
-
-   <td align="center">
-      <strong>🧠 Backend</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/> 
-    </td>
-
-  <td align="center">
-      <strong>⚙️ Tools</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-      <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" width="48" height="48"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="48" height="48"/>
-    </td>
-  </tr>
-</table>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,html,css,tailwind,git,figma,postman" /> </p>
 
 ---
 
 
-### 📚 Top Languages
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaovieira77&show_icons=true&theme=onedark" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira77&layout=compact&theme=onedark" height="165"/> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovieira77&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=joaovieira77&theme=onedark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
 
 
