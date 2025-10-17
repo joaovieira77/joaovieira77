@@ -33,13 +33,13 @@ I'm passionate about building intuitive digital experiences and solving real-wor
 
 ---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,html,css,tailwind,git,figma,postman" /> </p>
 
 ---
 
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaovieira77&show_icons=true&theme=onedark" height="165"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira77&layout=compact&theme=onedark" height="165"/> </p>
 
