@@ -36,7 +36,7 @@ I'm focused on expanding my skill set and working on exciting projects that chal
 ---
 
 ### 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,html,css,tailwind,git,figma,postman" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,vite,nodejs,express,java,mongodb,html,css,tailwind,git,figma,postman" /> </p>
 
 ---
 
