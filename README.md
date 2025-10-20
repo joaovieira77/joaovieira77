@@ -42,7 +42,8 @@ I'm focused on expanding my skill set and working on exciting projects that chal
 
 
 ### 📊 GitHub Stats
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaovieira77&show_icons=true&theme=onedark" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira77&layout=compact&theme=onedark" height="165"/> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaovieira77&theme=onedark&hide_border=false" alt="GitHub Streak"/>
