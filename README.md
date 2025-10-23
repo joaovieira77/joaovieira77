@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm João 🪄</h1>
-<h3 align="center">🇵🇹 A  developer from Portugal</h3>
+<h3 align="center">🇵🇹 Developer from Portugal | Passionate about building impactful software</h3>
+
 
 ---
 
@@ -35,15 +36,39 @@ I'm focused on expanding my skill set and working on exciting projects that chal
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,vite,nodejs,express,java,mongodb,html,css,tailwind,git,figma,postman" /> </p>
+<h3>🛠️ Tech Stack</h3>
+
+<br>
+
+<p align="center"><b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" height="165"/>
+</p>
+
+<br>
+
+<p align="center"><b>Frameworks & Libraries</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,vite,tailwind,nodejs,express,mongodb" height="165"/>
+</p>
+
+<br>
+
+<p align="center"><b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma" height="165"/>
+</p>
+
+
+
 
 ---
 
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaovieira77&show_icons=true&theme=onedark" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira77&layout=compact&theme=onedark" height="165"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovieira77&show_icons=true&hide_title=true&hide_border=false&theme=onedark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira77&layout=compact&hide_border=false&theme=onedark" height="165" />
+</p>
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaovieira77&theme=onedark&hide_border=false" alt="GitHub Streak"/>
