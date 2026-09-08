@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm João 🪄</h1>
-<h3 align="center">🇵🇹 Developer from Portugal | Passionate about building impactful software</h3>
+<h3 align="center">🇵🇹 Developer from Portugal</h3>
 
 
 ---
