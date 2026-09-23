@@ -17,8 +17,7 @@ I'm focused on expanding my skill set and working on exciting projects that chal
 - 📚 [SkillSwap](https://github.com/joaovieira77/FinalProjectB4F) – A platform for exchanging skills and learning from others. <br> ➝ I was fully responsible for the Backend and also contributed to the Frontend development.
 - 🧸 [Toytale](https://github.com/joaovieira77/toytale) – A marketplace to rehome toys and books, promoting sustainability. <br> ➝ Developed during the Bytes4Future 24h Hackathon, where I was fully responsible for the Backend and also contributed to the Frontend.
 - 🏘 [Condoly](https://github.com/joaovieira77/Condoly) – A condominium management platform. <br> ➝ Currently in development. Fully built by me, working on both Backend and the Frontend.
-- Working on Neighbourly and Nutri-Tracker.
--🍽️ [NutriTracker](https://github.com/joaovieira77/nutritracker) – A personal nutrition and lifestyle tracking application. <br> ➝ Currently in development, focused on meals, macros, exercise, sleep, water, weight and progress tracking.  
+- 🍽️ [NutriTracker](https://github.com/joaovieira77/nutritracker) – A personal nutrition and lifestyle tracking application. <br> ➝ Currently in development, focused on meals, macros, exercise, sleep, water, weight and progress tracking.  
 - 🚀 All of my projects are available at [https://joao-vieira.vercel.app/](https://joao-vieira.vercel.app/)
 
 ---
